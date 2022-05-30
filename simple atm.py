@@ -212,7 +212,7 @@ while keep_running:
         keep_running = False
     # if selection is not 1,2,3,4,5 it will give you an error message and ask if you want to try again
     else:
-        print("**** Invalid Entery ****")
+        print("**** Invalid Entry ****")
         try_again()
 # End of the program
 print("*********** Thank You For Using ZURI ATM. See You Some Other Time. ***********")
